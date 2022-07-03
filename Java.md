@@ -47,3 +47,14 @@ public class CylinderSample
     }
 }
 ```
+
+### Output
+
+```
+Enter the radius of the cylinder: 
+4
+Enter the height of the cylinder: 
+6
+Surface Area of the Cylinder : 251.327 
+Volume of the Cylinder : 301.593
+```
